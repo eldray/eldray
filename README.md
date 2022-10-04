@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on projects related to Data Analysis and Sofware Applications
 
-─────┤ ⚡Fun Facts About Me ├─────────────▰▰▰
+ ─────┤ ⚡Fun Facts About Me ├─────────────▰▰▰
 -    I once taught I couldn't love again, till I found my passion for programming
 -    I do enjoy cooking 👨‍🍳 and listening to music 🎼
 ─────────────────────────────────────────────────────────────────▰▰▰
 
-─────┤ ⚡ For Your Information: ├──────────▰▰▰
+ ─────┤ ⚡ For Your Information: ├──────────▰▰▰
 - 🤯 The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.
 - 💡 Contrary to popular belief, it’s really, really hard to see the Great Wall of China from space, particularly with the naked eye.
 - 😲 The first footprints on the moon will remain there for a million years.
